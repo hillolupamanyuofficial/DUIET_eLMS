@@ -4,9 +4,9 @@
 ### Project Overview
 
 Currently implemented features:
-- **Admin** manages all the courses, create student and teacher accounts, and assign courses to teachers.
-- **Student** can enroll in courses with the enrollment key, view course content, and submit assignments.
-- **Teacher** can view course content, post announcement and course content, create assignments, and grade assignments.
+- **Admin** Manages all the courses, create student and teacher accounts, and assign courses to teachers.
+- **Student** Can enroll in courses with the enrollment key, view course content, and submit assignments.
+- **Teacher** Can view course content, post announcement and course content, create assignments, and grade assignments.
 
     Each course has discussion channels for both students and teachers.
 
