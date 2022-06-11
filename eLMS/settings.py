@@ -86,7 +86,7 @@ DATABASES = {
         'NAME': 'elms',
         'HOST': 'localhost',
         'USER': 'root',
-        'PASSWORD': '',
+        'PASSWORD': 'root',
     }
 }
 
